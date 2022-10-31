@@ -1,0 +1,17 @@
+name: tteokbokki
+version: 0.1.5
+
+authors:
+  - Kenta <yuniper@pm.me>
+
+targets:
+  tteokbokki:
+    main: src/tteokbokki.cr
+
+dependencies:
+  discordcr:
+    github: shardlab/discordcr
+
+crystal: 1.6.0
+
+license: MIT
